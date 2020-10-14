@@ -1,0 +1,12 @@
+li a {
+    color: green;
+}
+
+body {
+    background-image: url('https://img5.goodfon.com/wallpaper/nbig/a/c8/full-hd-wallpaper-background-cable-bridge-bridge-forest-tree.jpg');
+  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
